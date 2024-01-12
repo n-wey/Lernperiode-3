@@ -10,19 +10,19 @@ Nora Wey
 2. Ich hab mir tatsächlich nicht mehr wirklich etwas vorgenommen
 3. Keine Ahnung. Bin ich ganz ehrlich.
 
-Ich werde die Zeit, der letzten drei Wochen dafür verwenden meinen Teil der Module zu beenden. Das heisst, ich werde ganz sicher an der Dokumentation für das Projekt in Modul 117 arbeiten.
-- [ ] Dokumentation Modul 117
-- [ ] Modul 117
+Zu Beginn wollte ich eigentlich einfach für das Modul 117 Arbeiten, aber ich habe mich dazu entschieden, dass ich das Programm des Random Number-Guesser von Grund auf nachprogrammiere.
+- [ ] Random Number-Guesser von Grund auf neu Programmieren
 
 ## 12.1.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 19.1.2024
+## Bis 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Konsole wählt eine Nummer zwischen 1 und 100
+- [ ] Konsole fragt nach der Nummer
+- [ ] Konsole gibt an ob zu gros oder zu klein
+- [ ] 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
