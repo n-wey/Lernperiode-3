@@ -1,12 +1,12 @@
 # Lern-Periode 3
 
-Max Muster
+Nora Wey
 
-12.1. bis 23.2.2024
+12.1. bis 26.1.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Mit meiner Durchschnittsnote stehe ich auf einer 3.5. Im Modul 431 war ich nicht schlecht, da ich eine 4.5 hatte. In den anderen Modulen also 319 und 162 war ich ungenügend. Da Modul 319 wäre wichtig. Modul 162 wäre auch wichtig, weil die weiteren Module bei Frau Rieder darauf aufbauen.
 2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 3. Was wäre ein geeignetes Projekt würd diese LP3?
 
