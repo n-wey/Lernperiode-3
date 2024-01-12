@@ -6,9 +6,13 @@ Nora Wey
 
 ## Grob-Planung
 
-1. Mit meiner Durchschnittsnote stehe ich auf einer 3.5. Im Modul 431 war ich nicht schlecht, da ich eine 4.5 hatte. In den anderen Modulen also 319 und 162 war ich ungenügend. Da Modul 319 wäre wichtig. Modul 162 wäre auch wichtig, weil die weiteren Module bei Frau Rieder darauf aufbauen.
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Mit meiner Durchschnittsnote stehe ich auf einer 3.5. Im Modul 431 war ich nicht schlecht, da hatte ich eine 4.5 . In den anderen Modulen also 319 und 162 war ich ungenügend. Da Modul 319 wäre wichtig. Modul 162 wäre auch wichtig, weil die weiteren Module bei Frau Rieder darauf aufbauen.
+2. Ich hab mir tatsächlich nicht mehr wirklich etwas vorgenommen
+3. Keine Ahnung. Bin ich ganz ehrlich.
+
+Ich werde die Zeit, der letzten drei Wochen dafür verwenden meinen Teil der Module zu beenden. Das heisst, ich werde ganz sicher an der Dokumentation für das Projekt in Modul 117 arbeiten.
+- [ ] Dokumentation Modul 117
+- [ ] Modul 117
 
 ## 12.1.2024
 
